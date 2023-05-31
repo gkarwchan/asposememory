@@ -6,7 +6,7 @@ using parsefileV21;
 AsposeLicense license = new AsposeLicense();
 
 Console.WriteLine("start app v 22.10!");
-Document pdfDocument = new Document(@"inputfiles\imageinvoice.pdf");
+Document pdfDocument = new Document(@"inputfiles\croatia-map.pdf");
 var pageCount = pdfDocument.Pages.Count;
 var fulltext = new StringBuilder();
 for (var pageIndex = 1; pageIndex <= pageCount; pageIndex++)
