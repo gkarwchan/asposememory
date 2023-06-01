@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parsefileV10", "parsefileV1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parsefileV21", "parsefileV21\parsefileV21.csproj", "{E7095EC4-5AEF-4F54-9D7F-0C702BE2DED9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{98B27512-14B8-4C09-9970-4401B0B27478}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{E7095EC4-5AEF-4F54-9D7F-0C702BE2DED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7095EC4-5AEF-4F54-9D7F-0C702BE2DED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7095EC4-5AEF-4F54-9D7F-0C702BE2DED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B27512-14B8-4C09-9970-4401B0B27478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B27512-14B8-4C09-9970-4401B0B27478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B27512-14B8-4C09-9970-4401B0B27478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B27512-14B8-4C09-9970-4401B0B27478}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
